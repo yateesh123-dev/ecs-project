@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>New user Register for DevOps Learning at Virtual TechBox And Online learning</h1>
-    <h1>welcome to the online class<h1>
+    <h1>welcome to the online class and welcome to everyone</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
