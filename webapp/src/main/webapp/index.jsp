@@ -3,7 +3,6 @@
     <h1>New user Register for DevOps learning </h1>
     <h1>Welcome to ltimindtree</h1>
     <h1>welcome to the online running </h1>
-    <h1>welcome to the online class</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
